@@ -24,9 +24,11 @@ i am a curious, creative person, ** junior web developer, graphic designer & ill
 <br/>
 
 ### get in touch with me
- <!-- <a href="https://twitter.com/" target="blank">
+<!-- 
+<a href="https://twitter.com/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="katharina chalupsky twitter" height="28px" width="28px" />
-  </a>-->
+  </a>
+-->
     <a href="https://www.linkedin.com/in/katharina-chalupsky-a25706239/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="katharina chalupsky linkedin" height="28px" width="28px" />
   </a>
