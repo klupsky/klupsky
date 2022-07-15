@@ -2,6 +2,8 @@
 
 
 i am a curious, creative person, ** junior web developer, graphic designer & illustrator ** based in vienna, austria. 
+<br/>
+<br/>
 
 
 
@@ -23,12 +25,13 @@ i am a curious, creative person, ** junior web developer, graphic designer & ill
 <img align="left" alt="playwright" width="26px" src="https://github.com/gilbarbara/logos/blob/master/logos/playwright.svg" />
 <img align="left" alt="Jest" width="26px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
 <img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<br/>
+<br/><br/>
+
 
 
 
 ### get in touch with me
 
-    <a href="https://www.linkedin.com/in/katharina-chalupsky-a25706239/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="katharina chalupsky linkedin" height="28px" width="28px" />
+   <a href="https://linkedin.com/in/elenacoazzoli" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="elena coazzoli linkedin" height="28px" width="28px" />
   </a>
