@@ -1,11 +1,13 @@
 ### 👀 Hey, i am katharina
 
-
+<br/>
+<br/>
 i am a curious, creative person, ** junior web developer, graphic designer & illustrator ** based in vienna, austria. 
 <br/>
 <br/>
 
 
+<hr>
 
 ### languages & other skills
 
@@ -27,6 +29,7 @@ i am a curious, creative person, ** junior web developer, graphic designer & ill
 <img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <br/><br/>
 
+<hr>
 
 
 
