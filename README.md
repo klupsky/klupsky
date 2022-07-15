@@ -2,8 +2,7 @@
 
 <br/>
 <br/>
-i am a curious, creative person, ** junior web developer, graphic designer & illustrator based in vienna, austria. 
-<br/>
+i am a curious, creative person, **junior web developer, graphic designer & illustrator** based in vienna, austria. 
 <br/>
 
 <hr>
