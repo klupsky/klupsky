@@ -32,6 +32,6 @@ i am a curious, creative person, ** junior web developer, graphic designer & ill
 
 ### get in touch with me
 
-   <a href="https://linkedin.com/in/elenacoazzoli" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="elena coazzoli linkedin" height="28px" width="28px" />
+   <a href="https://linkedin.com/in/katharina-chalupsky-a25706239/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="katharina chalupsky linkedin" height="28px" width="28px" />
   </a>
