@@ -2,10 +2,9 @@
 
 <br/>
 <br/>
-i am a curious, creative person, ** junior web developer, graphic designer & illustrator ** based in vienna, austria. 
+i am a curious, creative person, ** junior web developer, graphic designer & illustrator based in vienna, austria. 
 <br/>
 <br/>
-
 
 <hr>
 
@@ -27,7 +26,7 @@ i am a curious, creative person, ** junior web developer, graphic designer & ill
 <img align="left" alt="playwright" width="26px" src="https://github.com/gilbarbara/logos/blob/master/logos/playwright.svg" />
 <img align="left" alt="Jest" width="26px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
 <img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<br/><br/>
+<br/>
 
 <hr>
 
