@@ -3,6 +3,8 @@
 
 i am a curious, creative person, ** junior web developer, graphic designer & illustrator ** based in vienna, austria. 
 
+
+
 ### languages & other skills
 
 <img align="left" alt="Adobe" width="26px" src="https://brandeps.com/logo-download/A/Adobe-Creative-Cloud-logo-vector-03.svg" />
@@ -23,12 +25,10 @@ i am a curious, creative person, ** junior web developer, graphic designer & ill
 <img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <br/>
 
+
+
 ### get in touch with me
-<!-- 
-<a href="https://twitter.com/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="katharina chalupsky twitter" height="28px" width="28px" />
-  </a>
--->
+
     <a href="https://www.linkedin.com/in/katharina-chalupsky-a25706239/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="katharina chalupsky linkedin" height="28px" width="28px" />
   </a>
