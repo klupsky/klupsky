@@ -25,7 +25,6 @@ i am an open minded, creative junior frontend web developer with a graphic desig
 <br/>
 <br/>
 
-<hr>
 
 
 
