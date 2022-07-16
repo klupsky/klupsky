@@ -1,4 +1,6 @@
 ### 👀 Hey, i am katharina!
+<br/>
+
 i am an open minded, creative junior frontend web developer with a graphic design & illustration background based in vienna, austria. 
 <br/><br/>
 
@@ -24,7 +26,7 @@ i am an open minded, creative junior frontend web developer with a graphic desig
 <img align="left" alt="Jest" width="26px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
 <img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <br/>
-<br/>
+
 
 
 
