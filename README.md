@@ -25,7 +25,7 @@ i am an open minded, creative junior frontend web developer with a graphic desig
 <img align="left" alt="playwright" width="26px" src="https://github.com/gilbarbara/logos/blob/master/logos/playwright.svg" />
 <img align="left" alt="Jest" width="26px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
 <img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<br/>
+<br/><br/>
 
 
 
