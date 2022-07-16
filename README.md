@@ -1,5 +1,5 @@
 ### 👀 Hey, i am katharina!
-i am a curious, creative junior frontend web developer, graphic designer & illustrator based in vienna, austria. 
+i am an open minded, creative junior frontend web developer with a graphic design & illustration background based in vienna, austria. 
 <br/>
 
 <hr>
