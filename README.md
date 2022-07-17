@@ -5,9 +5,11 @@ i am an open minded, creative junior frontend web developer with a graphic desig
 <br/><br/>
 
 
+
+
 <hr>
 
-### languages & other skills
+### tech stack & other skills
 
 <img align="left" alt="Adobe" width="26px" src="https://brandeps.com/logo-download/A/Adobe-Creative-Cloud-logo-vector-03.svg" />
 <img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
@@ -33,6 +35,6 @@ i am an open minded, creative junior frontend web developer with a graphic desig
 
 ### get in touch with me
 
-   <a href="https://linkedin.com/in/katharina-chalupsky-a25706239/" target="blank">
+   <a href="https://linkedin.com/in/katharina-chalupsky/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="katharina chalupsky linkedin" height="28px" width="28px" />
   </a>
