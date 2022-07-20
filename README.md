@@ -5,7 +5,7 @@ i am an open minded, creative junior frontend web developer with a graphic desig
 <br/>
 
 - 👩🏻‍💻 I like to code 
-- 💙 I love graphic design (AND illustration AND typography AND arts in general)
+- 💙 I love graphic design (AND illustration AND typography AND photography AND arts in general)
 - 💪 I want to make code & design team up and work out together
 - 💯 I don't want to stop learning new things
 
