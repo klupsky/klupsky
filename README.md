@@ -4,8 +4,10 @@
 i am an open minded, creative junior frontend web developer with a graphic design background and i am based in vienna, austria. 
 <br/><br/>
 
-
-
+- 👩🏻‍💻 I like to code 
+- 💙 I love graphic design (AND illustration AND typography AND arts in general)
+- 💪 I want to build bridges between code & design and make them work together
+- 💯 I never stop learning new things
 
 <hr>
 
