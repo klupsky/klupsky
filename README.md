@@ -25,7 +25,6 @@ i am an open minded, creative junior frontend web developer with a graphic desig
 <img align="left" alt="Next.js" width="26px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" alt="playwright" width="26px" src="https://github.com/gilbarbara/logos/blob/master/logos/playwright.svg" />
 <img align="left" alt="Jest" width="26px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
 <img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <br/><br/>
