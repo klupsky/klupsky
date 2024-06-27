@@ -1,12 +1,12 @@
-### 👀 Hey, i am katharina!
+### Hey, i am katharina!
 
 i am a frontend web developer with a graphic design background, based in vienna, austria. 
 <br/>
 
 - 👩🏻‍💻 I like to code 
 - 💙 I dig design (graphic design, illustration, photography, arts)
-- 💪 I am striving to unite code with design
-- 💯 constantly trying to catch up with new learnings
+- 💪 I strive to unite code with design
+- 💯 I am constantly trying to catch up with new things to learn
 
 <hr>
 
